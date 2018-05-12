@@ -1,0 +1,49 @@
+_repo: A-Journey-from-Prince-of-Wales-s-Fort-in-Hudson-s-Bay-to-the-Northern-Ocean-in-the-Years-1769__38404
+_version: 0.1.0
+contributor:
+  author_of_introduction:
+    agent_name: Walker, Edmund, Sir
+    alias: Walker, Byron Edmund, Sir
+    birthdate: 1848
+    deathdate: 1924
+    gutenberg_agent_id: '43329'
+    url: http://www.gutenberg.org/2009/agents/43329
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Hearne, Samuel
+    birthdate: 1745
+    deathdate: 1792
+    gutenberg_agent_id: '39443'
+    url: http://www.gutenberg.org/2009/agents/39443
+    wikipedia: http://en.wikipedia.org/wiki/Samuel_Hearne
+  editor:
+    agent_name: Tyrrell, Joseph Burr
+    alias: Tyrrell, J. B.
+    birthdate: 1858
+    deathdate: 1957
+    gutenberg_agent_id: '39240'
+    url: http://www.gutenberg.org/2009/agents/39240
+description: ''
+gutenberg_bookshelf: Travel
+gutenberg_issued: '2011-12-24'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '38404'
+  lccn: '11024846'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Northwest, Canadian -- Description and travel'
+- !lcsh 'Indians of North America -- Northwest, Canadian'
+- !lcc 'F1001'
+- !lcsh 'Northwest Passage'
+- !lcsh 'Natural history -- Northwest, Canadian'
+title: "A Journey from Prince of Wales's Fort in Hudson's Bay to the Northern Ocean\
+  \ in the Years 1769, 1770, 1771, 1772\r\nNew Edition with Introduction, Notes, and\
+  \ Illustrations"
+url: http://www.gutenberg.org/ebooks/38404
